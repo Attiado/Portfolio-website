@@ -1,0 +1,12 @@
+<?php
+ $name =$_POST['nom'];
+ $mail=$_POST['mail'];
+ $msg =$-POST['msg'];
+if(isset ($_POST['valider']))
+{
+if (isset ($_POST['nom'])and isset($_POST['mail'])and isset($_POST['msg'])))
+{
+
+}
+}
+?>
